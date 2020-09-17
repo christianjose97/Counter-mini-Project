@@ -29,7 +29,7 @@ class Counter extends Component {
       </div>
     );
   }
-
+  //Temps
   //Uses ternary operator to change colors of button class in bootstrap
   getBadgeClasses() {
     let classes = "badge m-2 badge-";
